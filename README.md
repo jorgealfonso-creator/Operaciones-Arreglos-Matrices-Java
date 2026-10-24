@@ -1,2 +1,2 @@
 # Operaciones-Arreglos-Matrices-Java
-Sistema desarrollado en Java para registrar artículos, calcular ganancias y procesar información comercial mediante programación orientada a objetos.
+Proyecto desarrollado en Java aplicando programación orientada a objetos para resolver operaciones con arreglos, vectores, matrices y registros de calificaciones.
